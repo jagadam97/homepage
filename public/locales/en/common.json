@@ -135,6 +135,7 @@
     },
     "plex": {
         "streams": "Active Streams",
+        "albums": "Albums",
         "movies": "Movies",
         "tv": "TV Shows"
     },
@@ -589,5 +590,9 @@
         "people_home": "People Home",
         "lights_on": "Lights On",
         "switches_on": "Switches On"
+    },
+    "whatsupdocker": {
+        "monitoring": "Monitoring",
+        "updates": "Updates"
     }
 }

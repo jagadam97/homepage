@@ -228,7 +228,8 @@
     "plex": {
         "streams": "Flux actif",
         "movies": "Films",
-        "tv": "Séries TV"
+        "tv": "Séries TV",
+        "albums": "Albums"
     },
     "glances": {
         "cpu": "Cpu",
@@ -573,9 +574,13 @@
         "subscriptions": "Abonnements"
     },
     "channelsdvrserver": {
-        "shows": "Shows",
-        "recordings": "Recordings",
-        "scheduled": "Scheduled",
+        "shows": "Affichages",
+        "recordings": "Enregistrements",
+        "scheduled": "Planifié",
         "passes": "Passes"
+    },
+    "whatsupdocker": {
+        "monitoring": "Monitoring",
+        "updates": "Updates"
     }
 }
