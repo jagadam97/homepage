@@ -92,7 +92,8 @@
     "pihole": {
         "queries": "Consultas",
         "blocked": "Bloqueado",
-        "gravity": "Gravedad"
+        "gravity": "Gravedad",
+        "blocked_percent": "Blocked %"
     },
     "speedtest": {
         "upload": "Subida",
@@ -513,7 +514,9 @@
         "cpuload": "Carga de la CPU",
         "memoryusage": "Uso de la memoria",
         "freespace": "Espacio libre",
-        "activeusers": "Usuarios activos"
+        "activeusers": "Usuarios activos",
+        "numfiles": "Archivos",
+        "numshares": "Elementos compartidos"
     },
     "kopia": {
         "status": "Estado",
@@ -580,7 +583,21 @@
         "passes": "Pases"
     },
     "whatsupdocker": {
-        "monitoring": "Monitoring",
-        "updates": "Updates"
+        "monitoring": "Supervisión",
+        "updates": "Actualizaciones"
+    },
+    "tailscale": {
+        "address": "Dirección",
+        "expires": "Caduca en",
+        "never": "Nunca",
+        "last_seen": "Visto por última vez",
+        "now": "Ahora",
+        "years": "{{number}}años",
+        "hours": "{{number}}horas",
+        "minutes": "{{number}}minutos",
+        "seconds": "{{number}}segundos",
+        "ago": "Hace {{value}}",
+        "weeks": "{{number}}semanas",
+        "days": "{{number}}días"
     }
 }
